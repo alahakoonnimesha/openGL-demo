@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(145): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(163): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(172): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(181): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(240): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(251): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(254): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(255): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(265): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(269): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(270): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(290): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nishi\source\repos\finalproject\finalproject\source.cpp(484): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  finalproject.vcxproj -> C:\Users\Nishi\source\repos\finalproject\Debug\finalproject.exe
